@@ -52,7 +52,7 @@ A Solana faz parte do ciclo de aprendizado, e não só do conteúdo:
 
 Credenciais on-chain e um programa Anchor próprio estão **planejados**, e não fazem parte do protótipo atual.
 
-## Exemplo de fluxo (alvo do demo)
+## Exemplo de fluxo do usuário
 
 ```
 Continue as Test User
