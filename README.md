@@ -52,7 +52,7 @@ Solana is part of the learning loop, not just the subject matter:
 
 On-chain credentials and a custom Anchor program are **planned**, not part of the current prototype.
 
-## Example flow (demo target)
+## Example user flow
 
 ```
 Continue as Test User
